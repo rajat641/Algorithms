@@ -18,3 +18,5 @@ The following algorithms were implemented during the time I did competitve progr
     - Dijkstra's Shortest Path - O(mlogn)
     - Prim's Minimum Cost Spanning Tree - O(mlogn)
     - Kruskal's Minimum Spanning Tree - O(mlogn)
+* Longest Increasing Subsequence
+* Longest Common Subsequence
