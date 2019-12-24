@@ -20,3 +20,5 @@ The following algorithms were implemented during the time I did competitve progr
     - Kruskal's Minimum Spanning Tree - O(mlogn)
 * Longest Increasing Subsequence
 * Longest Common Subsequence
+* Sieve of Eratosthenes for prime numbers
+* Karatsuba Multiplication
