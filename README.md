@@ -9,7 +9,7 @@ The following algorithms were implemented during the time I did competitve progr
   - Heapsort
  * Kandane's Algorithm
  * Modular exponentiation
- * Graph Algos
+ * Graph Algorithms
     - Topological Sorting
     - Shortest hops
     - DFS
