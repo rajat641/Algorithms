@@ -23,7 +23,7 @@ The following algorithms were implemented during the time I did competitve progr
 * Sieve of Eratosthenes for prime numbers
 * Karatsuba Multiplication
 
-The link to my profile for various programming website are -
+You can check my activity on various programming platforms-
 * Leetcode: https://leetcode.com/rsingh88
 * SPOJ : https://www.spoj.com/users/rajat641/
 * Codeforces : http://codeforces.com/profile/rajat641
